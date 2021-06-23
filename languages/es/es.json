@@ -33,7 +33,7 @@
   "liquidity.stake": "Stake",
   "liquidity.create_pool": "Crear pool",
   "liquidity.liquidity_pools": "Pools de liquidez",
-  "liquidity.pools_description": "<p>Los proveedores de liquidez ganan una parte de las fees generadas por el uPair donde la liquidez ha sido provista. Las fees son distribuidas en forma de tokens UP. Éstos tokens ganan una parte de las fees generados por cada intercambio a lo largo de todo Unifi protocol</p><p>Para más información <a href=\"https://docs.unifiprotocol.com/\">visita la documentación</a>.</p>",
+  "liquidity.pools_description": "<p>Los proveedores de liquidez ganan una parte de las fees generadas por el uPair donde la liquidez ha sido provista. Las fees son distribuidas en forma de tokens UP. Éstos tokens ganan una parte de las fees generados por cada swap a lo largo de todo Unifi protocol</p><p>Para más información <a href=\"https://docs.unifiprotocol.com/\">visita la documentación</a>.</p>",
   "liquidity.promoted_pools": "Pools patrocinados",
   "liquidity.custom_pools": "Pools comunitarios",
 
@@ -56,7 +56,7 @@
   "super_pair_tag.tooltip": "Los proveedores de {{tokenA}/{{tokenB}} ganan recompensas adicionales de todos los pares que mintean UP.",
   "super_pair_tag.tag_text": "<span>super</span><span>par</span>",
 
-  "up_mintable_tag.tooltip": "Los proveedores de liquidez de este par ganan una parte de los fees generados en intercambios en forma de tokens UP, cuyo valor incrementa constantemente.",
+  "up_mintable_tag.tooltip": "Los proveedores de liquidez de este par ganan una parte de los fees generados en swaps en forma de tokens UP, cuyo valor incrementa constantemente.",
 
   "up_mr_tag.tooltip_title": "UP Mint rate",
   "up_mr_tag.tooltip_body": "% del pool recogido para mintear token UP.",
