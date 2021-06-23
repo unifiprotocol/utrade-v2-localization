@@ -1,0 +1,22 @@
+{
+  "name": "@unifiprotocol/utrade-v2-localization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "add_language": "sh scripts/add_language.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unifiprotocol/utrade-v2-localization.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unifiprotocol/utrade-v2-localization/issues"
+  },
+  "homepage": "https://github.com/unifiprotocol/utrade-v2-localization#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
