@@ -113,7 +113,7 @@
   "exchange.swap_button_status_insufficient_balance": "No tienes fondos suficientes",
   "exchange.swap_button_status_no_output_currency": "Elige un token a recibir",
   "exchange.swap_button_status_no_route": "No hay una ruta para esta operación",
-  "exchange.swap": "Intercambiar",
+  "exchange.swap": "Swap",
   "exchange.swap_super_pair_fees": "{{value}}% de comision para los Super Pares de UNFI",
   "exchange.swap_up_redeem_fees": "{{value}}% de comisión para mintear UP tokens",
   "exchange.swap_lp_providers_fees": "% de comisión para los proveedores de liquidez",
