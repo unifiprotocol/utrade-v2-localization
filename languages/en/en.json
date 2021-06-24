@@ -48,6 +48,8 @@
 
   "sidebar.exchange": "Exchange",
   "sidebar.liquidity": "Liquidity",
+  "sidebar.api": "API",
+  "sidebar.docs": "Docs",
   "sidebar.governance": "Governance",
   "sidebar.analytics": "Analyitics",
   "sidebar.customer_service": "Customer Service",
@@ -129,5 +131,32 @@
 
   "pending_transactions_list.you_have_n_pending_tx": "You have {{n}} pending transactions.",
   "pending_transactions_list.view": "View",
-  "pending_transactions_list.pending_tx_on_accs": "You have transactions on the following accounts:"
+  "pending_transactions_list.pending_tx_on_accs": "You have transactions on the following accounts:",
+
+  "transactions.view_transaction": "View transaction",
+
+  "transactions.desc_approval_confirmed": "{{token}} Approved successfully",
+  "transactions.desc_swap_confirmed": "{{tokenA}} with {{tokenB}} swapped successfully",
+  "transactions.desc_add_liquidity_confirmed": "{{pool}} liquidity added successfully",
+  "transactions.desc_remove_liquidity_confirmed": "{{pool}} liquidity removed successfully",
+  "transactions.desc_claim_up_pool_reward_confirmed": "{{amount}} UP claimed successfully",
+  "transactions.desc_redeem_up_confirmed": "{{amount}} UP redeemed successfully",
+
+  "transactions.desc_approval_failed": "Approving {{token}} has failed",
+  "transactions.desc_swap_failed": "Swapping {{tokenA}} with {{tokenB}} has failed",
+  "transactions.desc_add_liquidity_failed": "Adding {{pool}} liquidity has failed",
+  "transactions.desc_remove_liquidity_failed": "Removing {{pool}} liquidity has failed",
+  "transactions.desc_claim_up_pool_reward_failed": "Claiming {{amount}} UP has failed",
+  "transactions.desc_redeem_up_failed": "Redeeming {{amount}} UP has failed",
+
+  "transactions.desc_approval_sent": "Approving {{token}}",
+  "transactions.desc_swap_sent": "Swapping {{tokenA}} with {{tokenB}}",
+  "transactions.desc_add_liquidity_sent": "Adding {{pool}} liquidity",
+  "transactions.desc_remove_liquidity_sent": "Removing {{pool}} liquidity",
+  "transactions.desc_claim_up_pool_reward_sent": "Claiming {{amount}} UP",
+  "transactions.desc_redeem_up_sent": "Redeeming {{amount}} UP",
+
+  "notifications.address_changed": "Address changed to {{address}} successfully",
+  "notifications.wallet_not_detected": "You do not have {{wallet}} installed",
+  "notifications.wrong_network": "Please, connect to your wallet to the <b>{{network}}</b> network"
 }
