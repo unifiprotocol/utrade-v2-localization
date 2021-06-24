@@ -11,6 +11,7 @@
   "common.insufficient_token_balance": "Insufficient {{token}} balance",
   "common.you_will_receive": "You will receive",
   "common.connect_your_wallet": "Connect your wallet",
+  "common.ok": "OK",
 
   "liquidity.liquidity": "Liquidity",
   "liquidity.remove_liquidity": "Remove liquidity",
