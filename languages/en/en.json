@@ -12,7 +12,6 @@
   "common.you_will_receive": "You will receive",
   "common.connect_your_wallet": "Connect your wallet",
   "common.ok": "OK",
-
   "liquidity.liquidity": "Liquidity",
   "liquidity.remove_liquidity": "Remove liquidity",
   "liquidity.add_liquidity": "Add liquidity",
@@ -37,68 +36,52 @@
   "liquidity.pools_description": "<p>Liquidity providers earn a share of trading fees in the form of UP token, which can be redeemed at any time. In any pair that mints UP, a portion of each trading fee increases the redeem value of all UP tokens. Liquidity providers in the UNFI Super Pair earn a bonus share of every UP minted from trading fees on the entire platform.</p><p>For more information <a href=\"https://docs.unifiprotocol.com/\">check the docs</a>.</p>",
   "liquidity.promoted_pools": "Promoted pools",
   "liquidity.custom_pools": "Custom pools",
-
   "up.redeem_title": "Redeem UP Tokens",
   "up.redeem_description": "Redeeming UP tokens means to send UP tokens to the Unifi protocol. The protocol will return a predetermined amount of base tokens for that blockchain in exchange for the UP tokens. Redeeming UP tokens is an irreversible transaction.",
   "up.redeem_amount": "Redeem amount",
-
   "up_pending_reward.claim": "Claim",
   "up_pending_reward.claiming": "Claiming",
   "up_pending_reward.claimed": "Claimed!",
   "up_pending_reward.retry": "Retry",
-
   "sidebar.exchange": "Exchange",
   "sidebar.liquidity": "Liquidity",
   "sidebar.api": "API",
   "sidebar.docs": "Docs",
   "sidebar.governance": "Governance",
-  "sidebar.analytics": "Analyitics",
+  "sidebar.analytics": "Analytics",
   "sidebar.customer_service": "Customer Service",
   "sidebar.bug_bounty": "Bug Bounty",
-
   "super_pair_tag.tooltip": "{{tokenA}/{{tokenB}} Liquidity Providers earn bonus liquidity rewards from all UP minting pairs.",
   "super_pair_tag.tag_text": "<span>super</span><span>pair</span>",
-
   "up_mintable_tag.tooltip": "Liquidity providers of this pair earn a share of trading fees in the form of UP token, which can be redeemed for an ever increasing value.",
-
   "up_mr_tag.tooltip_title": "UP Mint rate",
   "up_mr_tag.tooltip_body": "% of the pool trading fee gathered to mint UP token.",
-
   "token_list_modal.search_or_paste_token_address": "Search token or type token address",
   "token_list_modal.updating_list": "Updating list",
-
   "topbar.wrong_network": "Wrong network",
   "topbar.connect_a_wallet": "Connect",
-
   "swap_config_modal.slippage_title": "Slippage tolerance",
   "swap_config_modal.slippage_body": "Your transaction will revert if the price changes unfavorably by more than this percentage",
   "swap_config_modal.deadline_title": "Deadline",
   "swap_config_modal.deadline_body": "Your transaction will revert if it is pending for more than this period of time ",
-
   "slippage_warning.text_1": "Supplying Single Side Liquidity will use the provided token to buy the other token in this pair.",
   "slippage_warning.text_2": "This buy may incur significant slippage if there is not enough liquidity in this pool, resulting in a significant difference in price executed and the quoted price. You may set the maximum amount of slippage you will tolerate (current {{slippage}}%) by clicking the slider icon at the top right. Be careful to manage this risk accordingly.",
-
   "connection_modal.connect": "Connect",
   "connection_modal.select_a_wallet": "Select a wallet to start operating in our platform",
-
   "approve_button.connect_your_wallet": "Connect your wallet",
   "approve_button.approve": "Approve",
   "approve_button.please_sign_transaction": "Please, sign transaction",
   "approve_button.waiting_transaction": "Waiting transaction",
   "approve_button.approved": "Approved",
-
   "choose_network_modal.currently_browsing": "You are currently browsing on the <b>{{networkName}}</b> network.",
   "choose_network_modal.select_network": "Select a network",
-
   "choose_language_modal.select_language": "Select a language",
-
   "connected_modal.disconnected": "Disconnected",
   "connected_modal.disconnect": "Disconnect",
   "connected_modal.account": "Account",
   "connected_modal.using_wallet": "You are connected using {{wallet}}",
   "connected_modal.copy_address": "Copy address",
   "connected_modal.view_on_explorer": "View on explorer",
-
   "exchange.import_pool": "Import pool",
   "exchange.import": "Import",
   "exchange.add_liquidity": "Add Liquidity",
@@ -109,7 +92,6 @@
   "exchange.creating": "Creating",
   "exchange.dont_see_joined_pool": "Don't see a pool you have joined?",
   "exchange.import_it": "Import it",
-
   "exchange.swap_button_status_enter_amount": "Enter an amount",
   "exchange.swap_button_status_insufficient_liquidity": "Insufficient liquidity for this trade",
   "exchange.swap_button_status_price_impact_high": "Price Impact for this trade is very high",
@@ -126,37 +108,30 @@
   "exchange.min_received": "Minimum received",
   "exchange.trade_fee": "Trade fee",
   "exchange.price_impact": "Price Impact",
-
   "pending_transactions_list.no_pending_tx": "You have no pending transactions",
   "pending_transactions_list.your_pending_tx": "Your pending transactions",
-
   "pending_transactions_list.you_have_n_pending_tx": "You have {{n}} pending transactions.",
   "pending_transactions_list.view": "View",
   "pending_transactions_list.pending_tx_on_accs": "You have transactions on the following accounts:",
-
   "transactions.view_transaction": "View transaction",
-
   "transactions.desc_approval_confirmed": "{{token}} Approved successfully",
   "transactions.desc_swap_confirmed": "{{tokenA}} with {{tokenB}} swapped successfully",
   "transactions.desc_add_liquidity_confirmed": "{{pool}} liquidity added successfully",
   "transactions.desc_remove_liquidity_confirmed": "{{pool}} liquidity removed successfully",
   "transactions.desc_claim_up_pool_reward_confirmed": "{{amount}} UP claimed successfully",
   "transactions.desc_redeem_up_confirmed": "{{amount}} UP redeemed successfully",
-
   "transactions.desc_approval_failed": "Approving {{token}} has failed",
   "transactions.desc_swap_failed": "Swapping {{tokenA}} with {{tokenB}} has failed",
   "transactions.desc_add_liquidity_failed": "Adding {{pool}} liquidity has failed",
   "transactions.desc_remove_liquidity_failed": "Removing {{pool}} liquidity has failed",
   "transactions.desc_claim_up_pool_reward_failed": "Claiming {{amount}} UP has failed",
   "transactions.desc_redeem_up_failed": "Redeeming {{amount}} UP has failed",
-
   "transactions.desc_approval_sent": "Approving {{token}}",
   "transactions.desc_swap_sent": "Swapping {{tokenA}} with {{tokenB}}",
   "transactions.desc_add_liquidity_sent": "Adding {{pool}} liquidity",
   "transactions.desc_remove_liquidity_sent": "Removing {{pool}} liquidity",
   "transactions.desc_claim_up_pool_reward_sent": "Claiming {{amount}} UP",
   "transactions.desc_redeem_up_sent": "Redeeming {{amount}} UP",
-
   "notifications.address_changed": "Address changed to {{address}} successfully",
   "notifications.wallet_not_detected": "You do not have {{wallet}} installed",
   "notifications.wrong_network": "Please, connect to your wallet to the <b>{{network}}</b> network"
