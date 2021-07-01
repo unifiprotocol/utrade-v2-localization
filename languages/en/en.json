@@ -104,7 +104,7 @@
   "exchange.swap": "Swap",
   "exchange.swap_super_pair_fees": "{{value}}% Fees to UNFI SuperPair",
   "exchange.swap_up_redeem_fees": "{{value}}% Fees to UP Redeem Value",
-  "exchange.swap_lp_providers_fees": "% Fees to Liquidity Providers",
+  "exchange.swap_lp_providers_fees": "{{value}}% Fees to Liquidity Providers",
   "exchange.swap_team_fees": "0% Fees to Team",
   "exchange.price": "Price",
   "exchange.against_price": "Against price",
