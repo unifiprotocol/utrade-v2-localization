@@ -26,7 +26,7 @@
   "liquidity.add_tokens_to_your_wallet": "Add tokens to your wallet",
   "liquidity.your_liquidity": "Your liquidity",
   "liquidity.rewards": "Rewards",
-  "liquidity.last_24_hr": "Last 24 hours",
+  "liquidity.last_24_hr": "Last 24H",
   "liquidity.no_pools_matching_criteria": "There are no pools matching your criteria",
   "liquidity.staked_only": "Staked only",
   "liquidity.connect_to_use_filter": "Connect to use this filter",
