@@ -39,6 +39,8 @@
   "liquidity.custom_pools": "Custom pools",
   "liquidity.custom": "Custom",
   "liquidity.promoted": "Official",
+  "liquidity.pending_up_rewards": "Pending UP Rewards",
+  "liquidity.pending_up_rewards_help": "Until we launch the UNFI-ONE super pair we are accumulating UP rewards. These rewards are being staked and will be distributed upon launch.",
   "up.redeem_title": "Redeem UP Tokens",
   "up.redeem_description": "Redeeming UP tokens means to send UP tokens to the Unifi protocol. The protocol will return a predetermined amount of base tokens for that blockchain in exchange for the UP tokens. Redeeming UP tokens is an irreversible transaction.",
   "up.redeem_amount": "Redeem amount",
