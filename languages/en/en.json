@@ -41,6 +41,7 @@
   "liquidity.promoted": "Official",
   "liquidity.pending_up_rewards": "SuperPair Rewards",
   "liquidity.pending_up_rewards_help": "LPs in the UNFI Super Pair earn a bonus share of the UP rewards from all other pools. The UP is accumulating and waiting to be earned when the Super Pair is opened!",
+
   "up.redeem_title": "Redeem UP Tokens",
   "up.redeem_description": "Redeeming UP tokens means to send UP tokens to the Unifi protocol. The protocol will return a predetermined amount of base tokens for that blockchain in exchange for the UP tokens. Redeeming UP tokens is an irreversible transaction.",
   "up.redeem_amount": "Redeem amount",
@@ -69,6 +70,10 @@
   "swap_config_modal.slippage_body": "Your transaction will revert if the price changes unfavorably by more than this percentage",
   "swap_config_modal.deadline_title": "Deadline",
   "swap_config_modal.deadline_body": "Your transaction will revert if it is pending for more than this period of time ",
+  "swap_config_modal.deflactionary_operation_title": "Deflactionary operation",
+  "swap_config_modal.deflactionary_operation_body": "Some tokens like YOLOV are deflactionary, which means that the token are burnt on each transfer, therefore each operation involving that token will incur in highger slippage than usual. Mark this checkbox to enable it.",
+  "swap_config_modal.deflactionary_operation_check_label": "Enable deflactionary operation",
+
   "slippage_warning.text_1": "Supplying Single Side Liquidity will use the provided token to buy the other token in this pair.",
   "slippage_warning.text_2": "This buy may incur significant slippage if there is not enough liquidity in this pool, resulting in a significant difference in price executed and the quoted price. You may set the maximum amount of slippage you will tolerate (current {{slippage}}%) by clicking the slider icon at the top right. Be careful to manage this risk accordingly.",
   "connection_modal.connect": "Connect",
