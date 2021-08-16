@@ -80,6 +80,7 @@
   "approve_button.approve": "Approve",
   "approve_button.please_sign_transaction": "Please, sign transaction",
   "approve_button.waiting_transaction": "Waiting transaction",
+  "approve_button.checking_allowance": "Checking allowance",
   "approve_button.approved": "Approved",
   "choose_network_modal.currently_browsing": "You are currently browsing on the <b>{{networkName}}</b> network.",
   "choose_network_modal.select_network": "Select a network",
