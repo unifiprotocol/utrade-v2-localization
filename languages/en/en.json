@@ -28,6 +28,8 @@
   "auto-pool.price": "Price",
   "auto-pool.your_liquidity": "Your liquidity",
   "auto-pool.liquidity": "Liquidity",
+  "auto-pool.apr": "APR",
+  "auto-pool.apy": "APY",
   "liquidity.liquidity": "Liquidity",
   "liquidity.remove_liquidity": "Remove liquidity",
   "liquidity.add_liquidity": "Add liquidity",
