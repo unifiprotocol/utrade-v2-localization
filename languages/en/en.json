@@ -167,5 +167,8 @@
   "transactions.desc_redeem_up_sent": "Redeeming {{amount}} UP",
   "notifications.address_changed": "Address changed to {{address}} successfully",
   "notifications.wallet_not_detected": "You do not have {{wallet}} installed",
-  "notifications.wrong_network": "Please, connect to your wallet to the <b>{{network}}</b> network"
+  "notifications.wrong_network": "Please, connect to your wallet to the <b>{{network}}</b> network",
+  "price_chart.error_loading_chart_data": "There was an error loading chart data.",
+  "price_chart.error_not_enough_data": "There is not enough data to display the chart yet.",
+  "price_chart.loading_chart_data": "Loading chart data..."
 }
