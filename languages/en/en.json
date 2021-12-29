@@ -118,6 +118,7 @@
   "exchange.import_pool": "Import pool",
   "exchange.import": "Import",
   "exchange.add_liquidity": "Add Liquidity",
+  "exchange.token_cost": "1 {{token}} Price",
   "exchange.remove_liquidity": "Remove Liquidity",
   "exchange.liquidity": "Liquidity",
   "exchange.add_liquidity_to_receive_lp_or_create_pool": "Add liquidity to receive LP token or Create a <b>new</b> pool",

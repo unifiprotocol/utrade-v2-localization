@@ -88,6 +88,7 @@
   "exchange.remove_liquidity": "Remover liquidez",
   "exchange.liquidity": "Liquidez",
   "exchange.add_liquidity_to_receive_lp_or_create_pool": "Añadir liquidez para recibir el token LP o Crea una <b>nueva</b> piscina",
+  "exchange.token_cost": "Precio de 1 {{token}}",
   "exchange.not_participating_in_pool": "No participará en ninguna piscina",
   "exchange.creating": "Creación de",
   "exchange.dont_see_joined_pool": "¿No ves una piscina a la que te hayas unido?",
