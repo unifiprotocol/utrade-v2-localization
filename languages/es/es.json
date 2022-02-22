@@ -135,6 +135,7 @@
   "transactions.desc_redeem_up_sent": "Canjeando {{amount}} UP",
   "notifications.address_changed": "Dirección cambiada a {{dirección}} con éxito",
   "notifications.wallet_not_detected": "No tiene instalado {{wallet}}",
+  "notifications.wallet_is_locked": "La cartera {{wallet}} parece estar bloqueada",
   "notifications.wrong_network": "Por favor, conecte su cartera a la red <b>{red}}</b>.",
   "price_chart.error_loading_chart_data": "Hubo un error cargando la información.",
   "price_chart.error_not_enough_data": "No hay información suficiente aún para mostrar la gráfica.",

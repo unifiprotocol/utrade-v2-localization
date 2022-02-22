@@ -133,6 +133,7 @@
   "notifications.address_changed": "Адрес успешно изменён на {{address}}",
   "notifications.wallet_not_detected": "У вас не установлен {{wallet}}",
   "notifications.wrong_network": "Пожалуйста, подключите свой кошелёк к сети <b>{{network}}</b>.",
+  "notifications.wallet_is_locked": "Wallet {{wallet}} seems to be locked",
   "common.select": "Выбрать",
   "common.balance": "Баланс",
   "token_input_label.redeem": "Выкупить",
