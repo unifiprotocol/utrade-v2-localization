@@ -41,7 +41,10 @@ const availableLanguages = Object.keys(i18n.resources).reduce(
 );
 
 function addAppPrefix(appName, obj) {
-  return Object.entries(obj).map(([key, value]) => ({ [`${appName}.${key}`]: value }))
+  return Object.entries(obj).reduce((t, [key, value]) => {
+    t[key] = value;
+    return t
+  }, {})
 }
 
 module.exports = { i18n, availableLanguages };
