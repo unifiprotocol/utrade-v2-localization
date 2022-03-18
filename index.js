@@ -42,7 +42,7 @@ const availableLanguages = Object.keys(i18n.resources).reduce(
 
 function addAppPrefix(appName, obj) {
   return Object.entries(obj).reduce((t, [key, value]) => {
-    t[key] = value;
+    t[`${appName}.${key}`] = value;
     return t
   }, {})
 }
