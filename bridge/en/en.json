@@ -3,10 +3,20 @@
     "common.to": "To",
     "common.max_swap_size": "Max swap size",
     "common.swap_fee": "Swap Fee",
+    "common.balance": "Balance",
+    "common.assets": "Assets",
     "common.estimated_time": "Estimated Time",
-    "swap.transfer_overview": "Transfer Overview",
     "swap.destination_address": "Destination Address",
+    "swap.transfer_overview": "Transfer Overview",
+    "swap.choose_blockchain": "Choose the blockchain target",
     "swap.you_will_receive": "You will receive",
+    "swap.send": "Send",
+    "swap.receive": "Receive",
     "swap.tab.swap": "Swap",
-    "swap.tab.liquidity": "Liquidity"
+    "swap.tab.liquidity": "Liquidity",
+    "swap.overview.title": "Transfer overview",
+    "swap.overview.confirmation_text": "You are about to confirm the crosschain transaction below:",
+    "swap.overview.approve": "Approve",
+    "swap.overview.perform_swap": "Perform Swap",
+    "swap.overview.terms_conditions": "I read and accept the <1>terms and conditions</1>"
 }
