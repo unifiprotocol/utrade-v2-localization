@@ -1,11 +1,16 @@
 const locales = require("./locales");
-/* auto generated file, do not touch */
+
+const bridgeTranslations = {
+  en: {
+    translation: require('./bridge/en/en.json')
+  }
+}
+
 const i18n = {
   resources: {
     es: {
       translation: require("./languages/es/es.json"),
     },
-
     kr: {
       translation: require("./languages/kr/kr.json"),
     },
@@ -19,7 +24,7 @@ const i18n = {
       translation: require("./languages/ru/ru.json"),
     },
     en: {
-      translation: require("./languages/en/en.json"),
+      translation: { ...require("./languages/en/en.json"), ...addAppPrefix('bridge', bridgeTranslations.en.translation) },
     },
   },
 };
@@ -34,5 +39,9 @@ const availableLanguages = Object.keys(i18n.resources).reduce(
   }),
   {}
 );
+
+function addAppPrefix(appName, obj) {
+  return Object.entries(obj).map(([key, value]) => ({ [`${appName}.${key}`]: value }))
+}
 
 module.exports = { i18n, availableLanguages };
