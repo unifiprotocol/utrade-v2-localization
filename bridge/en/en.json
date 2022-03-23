@@ -18,6 +18,7 @@
     "swap.SELECT_CURRENCY": "Please select a swapable token",
     "swap.INVALID_ADDRESS": "Wrong Destination Address, please review it",
     "swap.SAME_CHAIN": "Choose a different target chain",
+    "swap.OUT_OF_BALANCE": "Insufficent funds",
     "swap.tab.swap": "Swap",
     "swap.tab.liquidity": "Liquidity",
     "swap.tab.transactions": "Transactions",
