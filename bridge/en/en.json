@@ -30,7 +30,7 @@
     "transactions.row.status.pending": "PENDING",
     "transactions.row.status": "STATUS",
     "transactions.row.amount": "AMOUNT",
-    "transactions.row.DATE": "DATE",
+    "transactions.row.date": "DATE",
     "transactions.row.view_deposit": "View Deposit",
     "transactions.row.view_withdraw": "View Withdraw"
 }
