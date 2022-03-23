@@ -17,11 +17,20 @@
     "swap.DISCONNECTED": "Please connect a wallet",
     "swap.SELECT_CURRENCY": "Please select a swapable token",
     "swap.INVALID_ADDRESS": "Wrong Destination Address, please review it",
+    "swap.SAME_CHAIN": "Choose a different target chain",
     "swap.tab.swap": "Swap",
     "swap.tab.liquidity": "Liquidity",
+    "swap.tab.transactions": "Transactions",
     "swap.overview.title": "Transfer overview",
     "swap.overview.confirmation_text": "You are about to confirm the crosschain transaction below:",
     "swap.overview.approve": "Approve",
     "swap.overview.perform_swap": "Perform Swap",
-    "swap.overview.terms_conditions": "I read and accept the <1>terms and conditions</1>"
+    "swap.overview.terms_conditions": "I read and accept the <1>terms and conditions</1>",
+    "transactions.row.status.complete": "COMPLETE",
+    "transactions.row.status.pending": "PENDING",
+    "transactions.row.status": "STATUS",
+    "transactions.row.amount": "AMOUNT",
+    "transactions.row.DATE": "DATE",
+    "transactions.row.view_deposit": "View Deposit",
+    "transactions.row.view_withdraw": "View Withdraw"
 }
