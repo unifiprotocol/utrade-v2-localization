@@ -29,7 +29,7 @@
     "swap.overview.terms_conditions": "I read and accept the <1>terms and conditions</1>",
     "swap.notification.swap_confirmed": "{{token}} swapped successfully",
     "swap.notification.swap_sent": "Swapping {{token}}",
-    "swap.notification.swap_failed": "{{token}} has failed",
+    "swap.notification.swap_failed": "Swapping {{token}} has failed",
     "transactions.row.status.complete": "COMPLETE",
     "transactions.row.status.pending": "PENDING",
     "transactions.row.status": "STATUS",
