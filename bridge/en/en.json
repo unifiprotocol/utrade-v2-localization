@@ -1,4 +1,5 @@
 {
+    "common.blockchain_unavailable": "Unfortunately {{blockchain}} is not supported as an origin chain at this time. We are always working hard to add more blockchains, so please check again later!",
     "common.from": "From",
     "common.to": "To",
     "common.max_swap_size": "Max swap size",
