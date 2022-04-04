@@ -7,6 +7,7 @@
     "common.balance": "Balance",
     "common.assets": "Assets",
     "common.estimated_time": "Processing Time",
+    "common.estimated_time.tooltip": "Processing time does not include time it takes for transactions to be verified on the origin and destination blockchains.",
     "swap.destination_address": "Destination Address",
     "swap.swap_watcher": "Swap Watcher",
     "swap.transfer_overview": "Next",
@@ -29,7 +30,7 @@
     "swap.overview.approve": "Approve",
     "swap.overview.approving": "Approving",
     "swap.overview.perform_swap": "Perform Swap",
-    "swap.overview.terms_conditions": "I read and accept the <1>terms and conditions</1>",
+    "swap.overview.terms_conditions": "I agree to the Terms and Conditions as set out in <1>THIS ARTICLE</1>",
     "swap.notification.swap_confirmed": "{{token}} deposited successfully",
     "swap.notification.swap_sent": "Depositing {{token}}",
     "swap.notification.swap_failed": "Deposit {{token}} has failed",
@@ -42,5 +43,5 @@
     "transactions.row.date": "DATE",
     "transactions.row.view_deposit": "View Deposit",
     "transactions.row.view_withdraw": "View Withdraw",
-    "transactions.header": "Track your pending and completed bridge transactions from the last 72 hours. If you are experiencing any issues, please contact us for support at our <1>Help Center</1>."
+    "transactions.header": "Track your pending and completed bridge transactions from the last 72 hours. If you are experiencing any issues, please contact us for support in our <1>Discord server</1> or <2>Help Center</2>."
 }
