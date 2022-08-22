@@ -99,6 +99,7 @@
   "exchange.swap_button_status_insufficient_balance": "Fondos insuficientes para esta operación",
   "exchange.swap_button_status_no_output_currency": "Seleccione un Token de salida",
   "exchange.swap_button_status_no_route": "No hay ruta disponible para el comercio seleccionado",
+  "exchange.swap_button_status_not_enough_output_token": "No hay liquidez suficiente",
   "exchange.swap": "Intercambiar",
   "exchange.swap_super_pair_fees": "{{valor}}% Tasas a UNFI SuperPar",
   "exchange.swap_up_redeem_fees": "{{valor}}% Tasas a valor de reembolso UP",

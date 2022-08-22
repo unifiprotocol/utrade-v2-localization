@@ -132,6 +132,7 @@
   "exchange.swap_button_status_insufficient_balance": "Insufficient funds for this trade",
   "exchange.swap_button_status_no_output_currency": "Select an output token",
   "exchange.swap_button_status_no_route": "No available route for selected trade",
+  "exchange.swap_button_status_not_enough_output_token": "There is not enough liquidity",
   "exchange.swap": "Swap",
   "exchange.swap_super_pair_fees": "{{value}}% Fees to UNFI SuperPair",
   "exchange.swap_up_redeem_fees": "{{value}}% Fees to UP Redeem Value",
