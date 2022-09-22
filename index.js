@@ -8,7 +8,7 @@ const bridgeTranslations = {
 
 const i18n = {
   resources: {
-    es: {
+    /* es: {
       translation: require("./languages/es/es.json"),
     },
     kr: {
@@ -22,7 +22,7 @@ const i18n = {
     },
     ru: {
       translation: require("./languages/ru/ru.json"),
-    },
+    }, */
     en: {
       translation: { ...require("./languages/en/en.json"), ...addAppPrefix('bridge', bridgeTranslations.en.translation) },
     },
