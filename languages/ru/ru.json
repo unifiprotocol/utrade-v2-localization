@@ -33,7 +33,7 @@
   "liquidity.stake": "Стейкинг",
   "liquidity.create_pool": "Создать пул",
   "liquidity.liquidity_pools": "Пулы ликвидности",
-  "liquidity.pools_description": "<p>Поставщики ликвидности получают часть комиссионных за торговлю в виде токена UP, который можно выкупить в любое время. В любой паре, которая майнит UP, часть каждого торгового сбора увеличивает выкупную стоимость всех токенов UP. Поставщики ликвидности в Суперпаре UNFI получают бонусную долю от каждого UP, полученного от торговых сборов на всей платформе.</p><p>Для более подробной информации <a href=\"https://docs.unifiprotocol.com/\" >ознакомьтесь с документацией</a>.</p>",
+  "liquidity.pools_description": "<p>Поставщики ликвидности получают часть комиссионных за торговлю в виде токена UP, который можно выкупить в любое время. В любой паре, которая майнит UP, часть каждого торгового сбора увеличивает выкупную стоимость всех токенов UP. Поставщики ликвидности в Суперпаре UNIFI получают бонусную долю от каждого UP, полученного от торговых сборов на всей платформе.</p><p>Для более подробной информации <a href=\"https://docs.unifiprotocol.com/\" >ознакомьтесь с документацией</a>.</p>",
   "liquidity.promoted_pools": "Официальные пулы",
   "liquidity.custom_pools": "Пользовательские пулы",
   "up.redeem_title": "Выкупить токены UP",
@@ -97,7 +97,7 @@
   "exchange.swap_button_status_no_output_currency": "Выберите токен для вывода",
   "exchange.swap_button_status_no_route": "Для выбранной операции нет доступного способа торговли",
   "exchange.swap": "Обмен",
-  "exchange.swap_super_pair_fees": "{{value}}% комиссии для Cуперпары UNFI",
+  "exchange.swap_super_pair_fees": "{{value}}% комиссии для Cуперпары UNIFI",
   "exchange.swap_up_redeem_fees": "{{value}}% комиссии для увеличения выкупной стоимости UP",
   "exchange.swap_lp_providers_fees": "{{value}}% вознаграждения Поставщикам Ликвидности",
   "exchange.swap_team_fees": "0% вознаграждений для Команды",
@@ -156,7 +156,6 @@
   "approve_button.checking_allowance": "Проверочная сумма",
   "liquidity.hide_details": "Подробности",
   "liquidity.show_details": "Подробности",
-
   "price_chart.error_loading_chart_data": "Возникла проблема при загрузке данных графика",
   "price_chart.error_not_enough_data": "Недостаточно данных для отображения графика",
   "price_chart.loading_chart_data": "Загрузка данных графика..."
